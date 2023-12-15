@@ -1,12 +1,12 @@
 ![poster.png](session_4_poster.png)
 
-# [Agenda](Agenda.pdf)
+# [Agenda](agenda.pdf)
 
 * Introductions
 * AI news
 * Announcements
 
-# [Host your own LLM](...)
+# [Host your own LLM](agenda.pdf)
 by Cristian Lungu
 
 The session starts by demystifying the complex architecture of Large  Language Models, highlighting their unique capabilities in processing  and generating human-like text. We then transition to the practical  aspects, on the intricate process of hosting and  maintaining a local LLM. This includes a discussion about  appropriate hardware and software, ensuring data privacy, ethical  considerations, and optimizing performance for specific applications.  The talk also explores a few innovative uses of LLMs  demonstrating their transformative potential. 
