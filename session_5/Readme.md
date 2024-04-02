@@ -6,7 +6,7 @@
 * AI news
 * Announcements
 
-# [Let's talk about "Prompt Engineering"]("The future with AI (5).pdf")
+# [Let's talk about "Prompt Engineering"](<The future with AI (5).pdf>)
 by Cristian Lungu
 
 Prompt Engineering is key for getting good LLM output. This is true for ChatGPT any other NLP models. We'll dissect strategies of effective prompt design, emphasizing context, clarity, and user experience. The session will also explore strategies for crafting personalized, accurate prompts, integrating machine learning techniques to enhance response precision. Ethical AI frameworks and data privacy considerations in prompt creation will also be discussed, addressing the challenges and ethical dilemmas in the discipline.
