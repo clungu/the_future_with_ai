@@ -14,6 +14,8 @@ Organized by [Curs ML](https://www.curs-ml.com) and [Xetten AI](https://www.xett
 * [Session 4](session_4/Readme.md)
 * [Session 5](session_5/Readme.md)
 * [Session 6](session_6/Readme.md)
+* [Session 7](session_7/Readme.md)
+* [Session 8](session_8/Readme.md)
 
 <a href="https://discord.gg/vWHPe8p4ut">
     <img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/6257d23c5fb25be7e0b6e220_Open%20Source%20Projects%20_%20Discord-7.svg" alt="drawing" width="100"/>
